@@ -1,0 +1,5 @@
+# 忽略此文件
+.config
+*.md
+/css /01.txt
+/02.txt
